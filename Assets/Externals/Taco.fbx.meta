@@ -3,7 +3,12 @@ guid: b242461a44f054a9ebea38397cc70f68
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Taco
+    second: {fileID: 2100000, guid: 9c7a1f29f0cd6ac4a810f2136d76396c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
